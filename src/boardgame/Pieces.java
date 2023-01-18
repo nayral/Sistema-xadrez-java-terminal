@@ -11,6 +11,7 @@ public class Pieces {
 		
 		this.board = board;
 		
+		
 	}
 
 
