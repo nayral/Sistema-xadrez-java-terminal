@@ -15,7 +15,6 @@ public class Pawn extends ChessPiece {
 	public String toString() {
 		return "P";
 	
-		
 	}
 	private boolean canMove(Position position) {
 		ChessPiece p = (ChessPiece) getBoard().piece(position);
